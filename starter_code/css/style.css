@@ -44,14 +44,17 @@ Developer @GA in NYC
 /******************************************
 /* BASE STYLES
 /*******************************************/
+h1 {
+  font-size: 24px;
+  font-weight: 900;
+}
 
 body {
      color: #000;
      font-size: 12px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
-      background-size: cover;
+     
 }
 
 
@@ -68,7 +71,8 @@ body {
 }
 
 header {
-
+  background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
 }
 
 footer {
