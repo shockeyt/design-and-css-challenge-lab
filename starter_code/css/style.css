@@ -126,9 +126,8 @@ ul {
   font-size: 18px;
   font-weight: 700;
   color: white;
-  position: absolute;
-  top: 213px;
-  left: 315px;
+  position: relative;
+  top: 197px;
 }
 .bluebutton {
   background-color: #F9E42E;
