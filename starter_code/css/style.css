@@ -114,12 +114,11 @@ ul {
 .testimonial {
   font-size: 18px;
   font-style: italic;
-  position: absolute;
+  position: relative;
   text-align: center;
   padding-left: 200px;
   padding-right: 200px;
-  height: 500px;
-  top: 110px;
+  top: 117px;
   color: white;
 }
 .Quote span {
@@ -127,7 +126,7 @@ ul {
   font-weight: 700;
   color: white;
   position: relative;
-  top: 197px;
+  top: 123px;
 }
 .bluebutton {
   background-color: #F9E42E;
